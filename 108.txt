@@ -1,0 +1,5 @@
+https://www.random.org/dice/?num=2
+bell shape distribution is very common in nature.
+ This is why it is called "normal distribution".
+  Most of the different kinds of data in the universe follow this pattern. 
+  In fact, we expect different kinds of data to follow this pattern.
